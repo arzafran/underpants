@@ -1,0 +1,35 @@
+{
+  "name": "underpants",
+  "version": "0.0.1",
+  "description": "The first thing you put on the morning, a uxdev-oriented seed with the bleeding edge tech and a component based mindset",
+  "scripts":{
+    "build:sass": "node-sass --recursive ./development/sass --output ./development/css --output-style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arzafran/underpants.git"
+  },
+  "keywords": [
+    "framework",
+    "components",
+    "web",
+    "seed",
+    "sass",
+    "processhtml"
+  ],
+  "author": "Franco Arza",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "babel-register": "^6.23.0",
+    "browser-sync": "^2.18.8",
+    "gulp-processhtml": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "htmlprocessor": "^0.2.4",
+    "node-sass": "^4.5.0"
+  },
+  "dependencies": {
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-cli": "^1.2.2"
+  }
+}
