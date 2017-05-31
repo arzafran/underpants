@@ -14,7 +14,7 @@
     "build:css": "npm run scss && npm run autoprefix",
     "build:js": "npm run lint && npm run uglify",
     "build:images": "npm run imagemin && npm run icons",
-    "build:all": "npm run build:css && npm run build:js && npm run build:images",
+    "build:all": "npm run build:css && npm run build:js && npm run build:images && npm run build:html",
     "watch:html": "onchange \"src/templates/*.html\" -- npm run build:html",
     "watch:css": "onchange \"src/scss/*.scss\" -- npm run build:css",
     "watch:js": "onchange \"src/js/*.js\" -- npm run build:js",
