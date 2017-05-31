@@ -47,9 +47,11 @@
   ],
   "false": {},
   "author": "Franco Arza",
-  "contributors": [{
-    "name": "Matias Beckerle",
-    "url": "https://github.com/matiasbeckerle"
-  }],
+  "contributors": [
+    {
+      "name": "Matias Beckerle",
+      "url": "https://github.com/matiasbeckerle"
+    }
+  ],
   "license": "MIT"
 }
