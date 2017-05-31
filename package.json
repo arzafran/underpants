@@ -1,6 +1,6 @@
 {
   "name": "underpants",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "The first thing you put on the morning, a uxdev-oriented seed with the bleeding edge tech and a component based mindset",
   "scripts": {
     "scss": "node-sass --recursive src/scss --output dist/css --output-style compressed",
@@ -20,20 +20,6 @@
     "watch:js": "onchange \"src/js/*.js\" -- npm run build:js",
     "watch:all": "concurrently --kill-others \"npm run serve\" \"npm run watch:css\" \"npm run watch:js\" \"npm run watch:html\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/arzafran/underpants.git"
-  },
-  "keywords": [
-    "framework",
-    "components",
-    "web",
-    "seed",
-    "sass",
-    "processhtml"
-  ],
-  "author": "Franco Arza",
-  "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^7.1.1",
     "browser-sync": "^2.18.12",
@@ -47,5 +33,23 @@
     "svgo": "^0.7.2",
     "uglify-js": "^3.0.13"
   },
-  "false": {}
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arzafran/underpants.git"
+  },
+  "keywords": [
+    "framework",
+    "components",
+    "web",
+    "seed",
+    "sass",
+    "processhtml"
+  ],
+  "false": {},
+  "author": "Franco Arza",
+  "contributors": [{
+    "name": "Matias Beckerle",
+    "url": "https://github.com/matiasbeckerle"
+  }],
+  "license": "MIT"
 }
