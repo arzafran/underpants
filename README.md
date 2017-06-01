@@ -1,6 +1,6 @@
 # underpants
 
-The first thing you put on the morning, a uxdev-oriented seed with npm scripts and everything up 2 date!
+The first thing you put on in the morning, a uxdev-oriented seed with npm scripts and everything up 2 date!
 
 ## Installation
 
@@ -14,7 +14,7 @@ npm install
 npm run serve
 ```
 
-## To watch for changes in Js, Css or Html
+## To watch for changes in Javascript, CSS or HTML
 
 ```bash
 npm run watch:all
