@@ -26,6 +26,5 @@ npm start
 [travis-url]: https://travis-ci.org/arzafran/underpants
 [travis-image]: https://travis-ci.org/arzafran/underpants.svg?branch=master
 [depstat-url]: https://david-dm.org/arzafran/underpants/?type=dev
-[depstat-image]: https://david-dm.org/arzafran/underpants.svg
-[![devDependencies](https://david-dm.org/reducejs/common-bundle/dev-status.svg)](https://david-dm.org/reducejs/common-bundle#info=devDependencies)
+[depstat-image]: https://david-dm.org/arzafran/underpants/dev-status.svg
 
