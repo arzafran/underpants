@@ -11,12 +11,17 @@ npm install
 ## Run
 
 ```bash
-npm run serve
+npm start
 ```
 
-## To watch for changes in Js, Css or Html
+## To watch for changes in JavaScript, CSS or HTML
 
 ```bash
 npm run watch:all
 ```
 
+## Build
+
+```bash
+npm run build:all
+```
