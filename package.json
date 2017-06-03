@@ -19,7 +19,7 @@
     "watch:html": "nodemon --watch src/templates -e html -x \"npm run build:html\"",
     "watch:css": "nodemon --watch src/scss -e scss -x \"npm run build:css\"",
     "watch:js": "nodemon --watch src/js -e js -x \"npm run build:js\"",
-    "watch": "run-p serve watch:*",
+    "watch": "npm run build:scaffold && run-p serve watch:*",
     "start": "npm run watch"
   },
   "devDependencies": {
