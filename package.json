@@ -4,7 +4,7 @@
   "description": "The first thing you put on the morning, a uxdev-oriented seed with the bleeding edge tech and a component based mindset",
   "engines": {
     "node": ">=7",
-    "npm": ">=5"
+    "npm": ">=4"
   },
   "scripts": {
     "scss": "node-sass-chokidar --recursive src/scss --output dist/css --output-style compressed",
