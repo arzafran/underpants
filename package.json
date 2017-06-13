@@ -34,6 +34,7 @@
     "htmlprocessor": "^0.2.4",
     "imagemin-cli": "^3.0.0",
     "mkdirp": "^0.5.1",
+    "node-sass": "^4.5.3",
     "node-sass-chokidar": "0.0.2",
     "nodemon": "^1.11.0",
     "npm-run-all": "^4.0.2",
