@@ -28,19 +28,19 @@
     "start": "npm run watch"
   },
   "devDependencies": {
-    "autoprefixer": "^7.1.1",
+    "autoprefixer": "^7.1.2",
     "browser-sync": "^2.18.12",
-    "eslint": "^4.0.0",
+    "eslint": "^4.2.0",
     "htmlprocessor": "^0.2.4",
     "imagemin-cli": "^3.0.0",
     "mkdirp": "^0.5.1",
     "node-sass": "^4.5.3",
-    "node-sass-chokidar": "0.0.2",
+    "node-sass-chokidar": "0.0.3",
     "nodemon": "^1.11.0",
     "npm-run-all": "^4.0.2",
     "postcss-cli": "^4.1.0",
     "svgo": "^0.7.2",
-    "uglify-js": "^3.0.15"
+    "uglify-js": "^3.0.24"
   },
   "repository": {
     "type": "git",
