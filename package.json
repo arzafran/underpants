@@ -1,6 +1,6 @@
 {
   "name": "underpants",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The first thing you put on the morning, a uxdev-oriented seed with the bleeding edge tech and a component based mindset",
   "engines": {
     "node": ">=7",
@@ -28,19 +28,19 @@
     "start": "npm run watch"
   },
   "devDependencies": {
-    "autoprefixer": "^7.1.2",
-    "browser-sync": "^2.18.12",
-    "eslint": "^4.2.0",
-    "htmlprocessor": "^0.2.4",
+    "autoprefixer": "^7.1.4",
+    "browser-sync": "^2.18.13",
+    "eslint": "^4.7.1",
+    "htmlprocessor": "^0.2.6",
     "imagemin-cli": "^3.0.0",
     "mkdirp": "^0.5.1",
     "node-sass": "^4.5.3",
     "node-sass-chokidar": "0.0.3",
-    "nodemon": "^1.11.0",
-    "npm-run-all": "^4.0.2",
-    "postcss-cli": "^4.1.0",
+    "nodemon": "^1.12.1",
+    "npm-run-all": "^4.1.1",
+    "postcss-cli": "^4.1.1",
     "svgo": "^0.7.2",
-    "uglify-js": "^3.0.24"
+    "uglify-js": "^3.1.1"
   },
   "repository": {
     "type": "git",
